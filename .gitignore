@@ -1,0 +1,24 @@
+# create by https://github.com/iamcco/coc-gitignore (Mon Nov 29 2021 13:10:45 GMT-0500 (Ecuador Time))
+# Haskell.gitignore:
+dist
+dist-*
+cabal-dev
+*.o
+*.hi
+*.chi
+*.chs.h
+*.dyn_o
+*.dyn_hi
+.hpc
+.hsenv
+.cabal-sandbox/
+cabal.sandbox.config
+*.prof
+*.aux
+*.hp
+*.eventlog
+.stack-work/
+cabal.project.local
+cabal.project.local~
+.HTF/
+.ghc.environment.*
